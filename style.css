@@ -62,7 +62,7 @@ body
 
 .button:active
 {
-    box-shadow: inset 1px 1px 5px #babeec, inset -1px -1px 2px #ffffff;
+    box-shadow: inset 1px 1px 5px #babeec, inset -1px -1px 3px #ffffff;
 }
 
 .button:hover{
